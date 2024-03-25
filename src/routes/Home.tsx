@@ -2,7 +2,8 @@ import { useNavigate } from "react-router-dom";
 import styled from "styled-components";
 
 const Div = styled.div`
-    margin-top: 20vh;
+    border: solid;
+    padding: 2vh 2vw;
 `;
 
 const P = styled.p`
